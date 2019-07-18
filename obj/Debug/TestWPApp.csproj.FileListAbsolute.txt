@@ -1,0 +1,13 @@
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\bin\Debug\TestWPApp.exe.config
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\bin\Debug\TestWPApp.exe
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\bin\Debug\TestWPApp.pdb
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\obj\Debug\TestWPApp.Form1.resources
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\obj\Debug\TestWPApp.Properties.Resources.resources
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\obj\Debug\TestWPApp.csproj.GenerateResource.Cache
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\obj\Debug\TestWPApp.exe
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\obj\Debug\TestWPApp.pdb
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\bin\Debug\TestWPApp.exe.manifest
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\bin\Debug\TestWPApp.application
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\obj\Debug\TestWPApp.exe.manifest
+c:\users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\obj\Debug\TestWPApp.application
+C:\Users\shubham.saxena1\documents\visual studio 2015\Projects\TestWPApp\TestWPApp\obj\Debug\TestWPApp.csprojResolveAssemblyReference.cache
